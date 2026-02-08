@@ -21,7 +21,7 @@ O trabalho parte de um modelo físico e implementa a base completa no Oracle, in
 
 ---
 
-## 📂 Arquivos do repositório
+## 📂 Arquivos 
 - `trabalho.sql` → criação das tabelas + constraints + inserts (popular a base)
 - `consultas.sql` → consultas SQL desenvolvidas para atender os requisitos do trabalho
 
